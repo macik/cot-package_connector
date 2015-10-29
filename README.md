@@ -92,11 +92,11 @@ Distributed under BSD license.
 Author
 ---------
 
-[Андрей Мацовкин](https://github.com/macik/)
+[Andrey Matsovkin](https://github.com/macik/)
 
 
 References
 ------
 
 * [Cotonti.com](http://Cotonti.com/) -- Home of Cotonti CMF
-* [package_connector на GitHub](https://github.com/macik/cot-package_connector) -- Свежая версия на GitHub
+* [package_connector на GitHub](https://github.com/macik/cot-package_connector) -- Latest version on GitHub
