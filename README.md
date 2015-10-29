@@ -1,3 +1,5 @@
+:ru: Russian version can be found [here](https://github.com/macik/cot-package_connector/blob/master/README_ru.md)
+
 PackageConnector
 ============
 
