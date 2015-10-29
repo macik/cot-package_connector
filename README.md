@@ -4,7 +4,7 @@ PackageConnector
 ============
 
 Plugin for CMF Cotonti. 
-Provide smooth integration with packets installed to project with 
+Provide smooth integration with packages installed to project with 
 [Composer](https://getcomposer.org/) (Dependency Manager for PHP).
 
 Description
