@@ -1,0 +1,11 @@
+{
+	"type" : "project",
+	"require" : {
+		"php" : ">=5.3.3",
+	},
+	"config" : {
+		"component-dir" : "lib/components",
+		"component-baseurl" : "lib/components",
+		"vendor-dir" : "lib"
+	}
+}
